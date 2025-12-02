@@ -88,8 +88,7 @@ Input (1D Signal) → Encoder (4 levels) → Bottleneck → Decoder (4 levels) �
 
 - **fid_reconstructed.py**：使用反向线性预测算法重建截断的FID信号
 - **fid_cutdown.py**：对FID信号进行截断处理
-- **systhitic_clean_FID.py**：系统地清洁FID信号
-- **demo_np_read.py**：演示如何读取numpy格式的FID数据
+
 
 ## 使用方法
 
